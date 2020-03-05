@@ -7,3 +7,7 @@ SSL Certificate generation and calling https: external service
 check folder javacert file created. add it in java/jre/lib/security
 
 input 1
+
+# For node app ssl certificate generation:
+
+https://flaviocopes.com/express-https-self-signed-certificate/
